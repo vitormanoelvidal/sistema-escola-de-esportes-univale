@@ -1,0 +1,58 @@
+MODALIDADE
+1
+Futsal sub 15
+
+2
+Futsal sub 11
+---------------------
+TURMA
+1 (PK AI)
+1 (2026/1)
+2 (Futsal sub 11)
+Turma 1
+18h00
+19h00
+Segunda-feira
+...
+---------------------
+Categoria_Pessoa
+1 Aluno
+2 Professor
+3 Extensionista
+---------------------
+Escola
+1
+Manoel Byrro
+...
+
+2
+Sillas Crespo
+...
+---------------------
+Escolaridade
+1 1º Ano Ens. Fund.
+2 8º Ano Ens. Fund.
+3 1º Ano Ens. Médio
+---------------------
+1 (id_pessoa)
+2 (Prof.)
+null
+null
+Patrick Vinícius
+...
+
+2 (id_pessoa)
+1 (Aluno)
+2 (Sillas Crespo)
+2 (8º Ano Ens. Fund.)
+Bruno Ritchele
+...
+---------------------
+Matricula
+100 (PK)
+1 (Patrick Prof)
+1 (2026/01)
+1 (Turma 1)
+26/03/26
+ativo
+---------------------
